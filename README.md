@@ -37,7 +37,7 @@ json format for email is:
     }
 4.use(/users)to fetch all users and use (/user/{id}) to fetch specified user.
 5.(/email-count/{user_id}) this fetch email count from specified user.
-
+6.setup  h2 database username and db_name.
 
 
 
